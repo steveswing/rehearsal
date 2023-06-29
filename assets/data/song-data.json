@@ -1,0 +1,30 @@
+[
+  {
+    "title": "My Jesus, I Love Thee (Rouse)",
+    "subtitle": "Arranged by Jay Rouse",
+    "vocalParts": [
+      {"name": "Soprano", "url": "assets/audio/My%20Jesus,%20I%20Love%20Thee%20(Rouse)-Soprano.mp3"},
+      {"name": "Alto", "url": "assets/audio/My%20Jesus,%20I%20Love%20Thee%20(Rouse)-Alto.mp3"},
+      {"name": "Tenor", "url": "assets/audio/My%20Jesus,%20I%20Love%20Thee%20(Rouse)-Tenor.mp3"},
+      {"name": "Bass", "url": "assets/audio/My%20Jesus,%20I%20Love%20Thee%20(Rouse)-Bass.mp3"}
+    ],
+    "allParts": {
+      "officialDemoPage": "https://lorenz.com/shop/church-choral/anthems/four-part-hymns-a-cappella",
+      "demoDirectUrl": "https://lorenz.com/Files/Files/Lorenz/Products/Sample_Audio",
+      "audioUrl": "assets/audio/My%20Jesus,%20I%20Love%20Thee%20(Rouse).mp3",
+      "museScoreDownloadUrl": "assets/scores/My%20Jesus,%20I%20Love%20Thee%20(Rouse).mscz"
+    }
+  },
+  {
+    "title": "The Lord's My Shepherd, I'll Not Want",
+    "subtitle": "Arranger Phillip Keveren",
+    "vocalParts": [
+      { "name": "Alto", "url": "https://youtu.be/-6msd1LUTYw" },
+      { "name": "Baritone", "url": "https://youtu.be/I71dtwTu9VQ" },
+      { "name": "Bass", "url": "https://youtu.be/vlCbdVxOPTg" },
+      { "name": "Soprano I", "url": "https://youtu.be/fcDWxrWGtBA" },
+      { "name": "Soprano II", "url": "https://youtu.be/VzK4INLi7EI" },
+      { "name": "Tenor", "url": "https://youtu.be/3_gh-spfSnE" }
+    ]
+  }
+]
