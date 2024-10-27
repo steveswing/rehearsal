@@ -8,5 +8,16 @@
       {"name": "Baritone", "url": "https://youtu.be/3iILkoJbSeM"},
       {"name": "Bass", "url": "https://youtu.be/JSaYL5nXeGo"}
     ]
+  },
+  {
+    "title": "12 Days of Christmas / Africa",
+    "subtitle": "LTTBB -- as performed by Straight No Chaser",
+    "vocalParts": [
+      {"name": "Lead Vocals", "url": "https://youtu.be/oZvWbuXxjg0"},
+      {"name": "Tenor 1", "url": "https://youtu.be/KnWUdCnAiFM"},
+      {"name": "Tenor 2", "url": "https://youtu.be/yDDJYKqFJnI"},
+      {"name": "Baritone", "url": "https://youtu.be/dJrYEo6eZac"},
+      {"name": "Bass", "url": "https://youtu.be/m1CLovCweFA"}
+    ]
   }
 ]
