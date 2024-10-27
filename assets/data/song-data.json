@@ -18,6 +18,9 @@
       {"name": "Tenor 2", "url": "https://youtu.be/yDDJYKqFJnI"},
       {"name": "Baritone", "url": "https://youtu.be/dJrYEo6eZac"},
       {"name": "Bass", "url": "https://youtu.be/m1CLovCweFA"}
-    ]
+    ],
+    "allParts": {
+      "museScoreDownloadUrl": "assets/scores/12%20Days%20of%20Christmas%20-%20Africa.mscz"
+    }
   }
 ]
