@@ -22,5 +22,12 @@
     "allParts": {
       "museScoreDownloadUrl": "assets/scores/12%20Days%20of%20Christmas%20-%20Africa.mscz"
     }
+  },
+  {
+    "title": "Rejoice O Israel ",
+    "subtitle": "Rehearsal Track",
+    "vocalParts": [
+      {"name": "Tenor &amp; Baritone", "url": "assets/audio/01%20Rejoice%20O%20Israel.m4a"}
+    ]
   }
 ]
