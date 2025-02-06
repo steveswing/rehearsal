@@ -1,33 +1,12 @@
 [
   {
-    "title": "Grace",
-    "subtitle": "TTBB -- Arranged by Mark Hayes",
+    "title": "And the Glory of the Lord",
+    "subtitle": "Handel's Messiah",
     "vocalParts": [
-      {"name": "Tenor 1", "url": "https://youtu.be/iT3bpQKXG54"},
-      {"name": "Tenor 2", "url": "https://youtu.be/-KdsevqWFMY"},
-      {"name": "Baritone", "url": "https://youtu.be/3iILkoJbSeM"},
-      {"name": "Bass", "url": "https://youtu.be/JSaYL5nXeGo"}
-    ]
-  },
-  {
-    "title": "12 Days of Christmas / Africa",
-    "subtitle": "LTTBB -- as performed by Straight No Chaser",
-    "vocalParts": [
-      {"name": "Lead Vocals", "url": "https://youtu.be/snw9NzgBEV8"},
-      {"name": "Tenor 1", "url": "https://youtu.be/arRE1C4wXDM"},
-      {"name": "Tenor 2", "url": "https://youtu.be/ublu8ku8rA4"},
-      {"name": "Baritone", "url": "https://youtu.be/d_zc0UfVb8Q"},
-      {"name": "Bass", "url": "https://youtu.be/fDeIzxL3w_8"}
-    ],
-    "allParts": {
-      "museScoreDownloadUrl": "assets/scores/12%20Days%20of%20Christmas%20-%20Africa.mscz"
-    }
-  },
-  {
-    "title": "Rejoice O Israel ",
-    "subtitle": "Rehearsal Track",
-    "vocalParts": [
-      {"name": "Tenor & Baritone", "url": "assets/audio/01%20Rejoice%20O%20Israel.m4a"}
+      {"name": "Soprano", "kind": "(YouTube Video)", "url": "https://youtu.be/VUD3jUruXPE"},
+      {"name": "Alto", "kind": "(YouTube Video)", "url": "https://youtu.be/3RDVkgD48X8"},
+      {"name": "Tenor", "kind": "(YouTube Video)", "url": "https://youtu.be/HeRxEDhvwCQ"},
+      {"name": "Bass", "kind": "(YouTube Video)", "url": "https://youtu.be/LTsW9jo4id0"}
     ]
   }
 ]
